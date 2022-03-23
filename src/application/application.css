@@ -1,0 +1,18 @@
+#background, .menu-bar, .menu:showing, .menu {
+	-fx-background-color: #FEE7D0;
+}
+
+.menu-item {
+	-fx-background-color: #D6E19C;
+}
+
+.label, .button {
+	-fx-text-fill:  #8E9123;
+}
+
+.button {
+	-fx-background-color: #EFF3D8;
+	-fx-border-color:  #D6E19C;
+	-fx-border-radius: 25;
+	-fx-background-radius: 25;
+}
